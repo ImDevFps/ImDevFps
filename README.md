@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImDevFps](https://github.com/ImDevFps)
 
-- 📝 I regularly write articles on [www.imdevfps.ir](www.imdevfps.ir)
+- 📝 I regularly write articles on [https://imdevfps.ir](https://imdevfps.ir)
 
 - 💬 Ask me about **React, NextJs, React TypeScript, Express js**
 
