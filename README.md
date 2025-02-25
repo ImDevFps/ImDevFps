@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, NextJs, React TypeScript, Express js**
 
-- 📫 How to reach me **ali.tayefe1374@gmail.com**
+- 📫 How to reach me **ali.tayefe1374@gmail.com** and "https://wa.me/+905050776844"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
